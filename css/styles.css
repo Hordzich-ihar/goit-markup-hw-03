@@ -365,12 +365,11 @@ font-family: "Roboto", sans-serif;
      /* footer */
          .footer {
             background: #2e2f42;
-          
+        padding: 100px 0;
          }
        .footer .container{
             display: block;
-            padding-top: 100px;
-            padding-bottom: 100px;
+          
 
         }
          .footer-logo {
